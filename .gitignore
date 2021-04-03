@@ -24,3 +24,4 @@ docs
 !packages/node_modules/**/docs
 .vscode
 .nyc_output
+package-lock.json
